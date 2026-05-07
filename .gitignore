@@ -1,0 +1,8 @@
+.env
+.venv/
+.vscode/
+.ipynb_checkpoints/
+requirements.txt
+datasets/ds_15_cohort_grid.csv
+datasets/ds_15_credit_rating.csv
+datasets/ds_15_transactions.csv
